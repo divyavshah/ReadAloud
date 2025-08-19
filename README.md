@@ -41,10 +41,6 @@ A Python desktop application that converts text from Word and PDF files into spe
 ## Screenshots
 
 ![Upload File](img.jpg)
-*Upload Word or PDF files for dictation.*
-
-![Dictation](screenshots/dictation.png)
-*Listen to the text with adjustable speed.*
 
 ## Contributing
 
